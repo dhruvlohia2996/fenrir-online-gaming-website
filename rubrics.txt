@@ -1,0 +1,109 @@
+Rubrics
+
+Website Structure
+
+1. The website includes a homepage.
+
+2. The website includes a registration page.
+
+3. The website includes a login page.
+
+4. The website includes a game catalog page.
+
+5. The website includes a leaderboard page.
+
+6. The website includes a user profile page.
+
+7. The website includes a contact page.
+
+Homepage Requirements
+
+8. The homepage contains a hero banner.
+
+9. The homepage contains a featured games section.
+
+10. The homepage contains a navigation menu.
+
+11. The homepage contains a call-to-action section.
+
+12. The homepage contains a footer section.
+
+User Account Requirements
+
+13. The registration page contains a registration form.
+
+14. The registration page contains a username field.
+
+15. The registration page contains an email field.
+
+16. The registration page contains a password field.
+
+17. The login page contains a login form.
+
+18. The login page contains an email field.
+
+19. The login page contains a password field.
+
+20. The website includes a user profile page.
+
+21. The user profile page displays player information.
+
+Game Catalog Requirements
+
+22. The game catalog page displays game cards.
+
+23. The game catalog page displays game titles.
+
+24. The game catalog page displays game descriptions.
+
+25. The game catalog page includes search functionality.
+
+26. The game catalog page includes category filtering.
+
+Leaderboard Requirements
+
+27. The leaderboard page displays player rankings.
+
+28. The leaderboard page displays player usernames.
+
+29. The leaderboard page displays player scores.
+
+30. The leaderboard page displays ranking order.
+
+Contact Page Requirements
+
+31. The contact page contains a contact form.
+
+32. The contact page contains a name field.
+
+33. The contact page contains an email field.
+
+34. The contact page contains a message field.
+
+35. The contact page contains a submit button.
+
+Responsive Design Requirements
+
+36. The website functions on desktop devices.
+
+37. The website functions on tablet devices.
+
+38. The website functions on mobile devices.
+
+Design Requirements
+
+39. The website uses a dark gaming theme.
+
+40. The website uses a consistent color palette.
+
+41. The website uses consistent typography.
+
+42. The website uses a consistent navigation structure.
+
+Deliverables
+
+43. Complete website source files are delivered.
+
+44. Website assets are delivered.
+
+45. Documentation is delivered.
